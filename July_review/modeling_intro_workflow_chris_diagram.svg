@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="modeling_intro_workflow_chris_diagram.svg"
+   inkscape:export-filename="C:\Users\Andrew Freiburger\Documents\Argonne\Presentations\July_review\modeling_intro_workflow_chris_diagram.png"
+   inkscape:export-xdpi="350"
+   inkscape:export-ydpi="350">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="384.72119"
+     inkscape:cy="297.22692"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1699"
+     inkscape:window-height="967"
+     inkscape:window-x="1920"
+     inkscape:window-y="105"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g900-1-3"
+       transform="matrix(-0.07433139,-0.04849926,-0.0443486,0.05937891,128.31152,49.316217)">
+      <g
+         id="g844-1-1">
+        <path
+           d="m 414.937,374.984 c -7.956,-24.479 -20.196,-47.736 -30.601,-70.992 -1.224,-3.06 -6.12,-3.06 -7.956,-1.224 -10.403,11.016 -22.031,22.032 -28.764,35.496 h -0.612 C 272.34,343.772 200.124,280.123 148.716,233.612 89.352,180.368 35.496,115.496 14.076,37.772 12.852,27.98 11.628,17.576 11.628,7.172 c 0,-4.896 -6.732,-4.896 -7.344,0 0,1.836 0,3.672 0,5.508 C 1.836,12.68 0,14.516 0,17.576 0.612,24.308 2.448,31.04 3.672,37.772 8.568,203.624 173.808,363.356 335.376,373.76 c -5.508,9.792 -10.403,20.195 -16.523,29.988 -3.061,4.283 1.836,8.567 6.12,7.955 30.6,-4.283 58.14,-18.972 86.292,-29.987 2.447,-0.612 4.895,-3.06 3.672,-6.732 z m -82.009,24.48 c 3.673,-7.956 6.12,-15.912 10.404,-23.868 1.225,-3.061 -0.612,-5.508 -2.448,-6.12 0,-1.836 -1.224,-3.061 -3.06,-3.672 C 191.556,341.324 72.828,241.568 28.764,106.315 c 28.764,53.244 72.828,99.756 116.28,138.924 31.824,28.765 65.484,54.468 102.204,75.888 28.764,16.524 64.872,31.824 97.92,21.421 v 0 c -1.836,4.896 5.508,7.344 7.956,3.672 7.956,-10.404 15.912,-20.196 24.48,-29.376 8.567,18.972 17.748,37.943 24.479,57.527 -22.643,8.569 -45.287,19.585 -69.155,25.093 z"
+           id="path842-0-5" />
+      </g>
+      <g
+         id="g846-0-7" />
+      <g
+         id="g848-8-0" />
+      <g
+         id="g850-7-7" />
+      <g
+         id="g852-4-4" />
+      <g
+         id="g854-4-1" />
+      <g
+         id="g856-8-2" />
+      <g
+         id="g858-6-0" />
+      <g
+         id="g860-7-5" />
+      <g
+         id="g862-6-2" />
+      <g
+         id="g864-4-5" />
+      <g
+         id="g866-4-7" />
+      <g
+         id="g868-6-8" />
+      <g
+         id="g870-1-3" />
+      <g
+         id="g872-0-5" />
+      <g
+         id="g874-2-6" />
+    </g>
+    <g
+       id="g900-1-3-3"
+       transform="matrix(0.07289162,0.05066591,0.04607805,-0.05806447,80.875807,36.618705)">
+      <g
+         id="g844-1-1-8">
+        <path
+           d="m 414.937,374.984 c -7.956,-24.479 -20.196,-47.736 -30.601,-70.992 -1.224,-3.06 -6.12,-3.06 -7.956,-1.224 -10.403,11.016 -22.031,22.032 -28.764,35.496 h -0.612 C 272.34,343.772 200.124,280.123 148.716,233.612 89.352,180.368 35.496,115.496 14.076,37.772 12.852,27.98 11.628,17.576 11.628,7.172 c 0,-4.896 -6.732,-4.896 -7.344,0 0,1.836 0,3.672 0,5.508 C 1.836,12.68 0,14.516 0,17.576 0.612,24.308 2.448,31.04 3.672,37.772 8.568,203.624 173.808,363.356 335.376,373.76 c -5.508,9.792 -10.403,20.195 -16.523,29.988 -3.061,4.283 1.836,8.567 6.12,7.955 30.6,-4.283 58.14,-18.972 86.292,-29.987 2.447,-0.612 4.895,-3.06 3.672,-6.732 z m -82.009,24.48 c 3.673,-7.956 6.12,-15.912 10.404,-23.868 1.225,-3.061 -0.612,-5.508 -2.448,-6.12 0,-1.836 -1.224,-3.061 -3.06,-3.672 C 191.556,341.324 72.828,241.568 28.764,106.315 c 28.764,53.244 72.828,99.756 116.28,138.924 31.824,28.765 65.484,54.468 102.204,75.888 28.764,16.524 64.872,31.824 97.92,21.421 v 0 c -1.836,4.896 5.508,7.344 7.956,3.672 7.956,-10.404 15.912,-20.196 24.48,-29.376 8.567,18.972 17.748,37.943 24.479,57.527 -22.643,8.569 -45.287,19.585 -69.155,25.093 z"
+           id="path842-0-5-35" />
+      </g>
+      <g
+         id="g846-0-7-6" />
+      <g
+         id="g848-8-0-5" />
+      <g
+         id="g850-7-7-8" />
+      <g
+         id="g852-4-4-7" />
+      <g
+         id="g854-4-1-9" />
+      <g
+         id="g856-8-2-20" />
+      <g
+         id="g858-6-0-0" />
+      <g
+         id="g860-7-5-2" />
+      <g
+         id="g862-6-2-6" />
+      <g
+         id="g864-4-5-7" />
+      <g
+         id="g866-4-7-72" />
+      <g
+         id="g868-6-8-2" />
+      <g
+         id="g870-1-3-5" />
+      <g
+         id="g872-0-5-1" />
+      <g
+         id="g874-2-6-6" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:5.18457px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';word-spacing:0px;stroke-width:0.129614"
+       x="104.6136"
+       y="18.552061"
+       id="text1080"><tspan
+         sodipodi:role="line"
+         x="104.6136"
+         y="18.552061"
+         style="text-align:center;text-anchor:middle;stroke-width:0.129614"
+         id="tspan976">Mechanistic model-driven</tspan><tspan
+         sodipodi:role="line"
+         x="104.6136"
+         y="25.032774"
+         style="text-align:center;text-anchor:middle;stroke-width:0.129614"
+         id="tspan980">data integration</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.22899px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';word-spacing:0px;stroke-width:0.105723"
+       x="105.21598"
+       y="65.021904"
+       id="text1080-0"><tspan
+         sodipodi:role="line"
+         id="tspan1078-2"
+         x="105.21598"
+         y="65.021904"
+         style="text-align:center;text-anchor:middle;stroke-width:0.105723">New experiment designs to </tspan><tspan
+         sodipodi:role="line"
+         x="105.21598"
+         y="70.308144"
+         style="text-align:center;text-anchor:middle;stroke-width:0.105723"
+         id="tspan975">reduce model uncertainty</tspan><tspan
+         sodipodi:role="line"
+         x="105.21598"
+         y="75.594376"
+         style="text-align:center;text-anchor:middle;stroke-width:0.105723"
+         id="tspan1024">and test hypotheses</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.18457px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';word-spacing:0px;stroke-width:0.129614"
+       x="132.2011"
+       y="31.105629"
+       id="text1080-0-7"><tspan
+         sodipodi:role="line"
+         id="tspan1078-2-0"
+         x="132.2011"
+         y="31.105629"
+         style="font-weight:bold;stroke-width:0.129614">Tasks 4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.18457px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';word-spacing:0px;stroke-width:0.129614"
+       x="57.717121"
+       y="32.310448"
+       id="text1080-0-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan1078-2-0-2"
+         x="57.717121"
+         y="32.310448"
+         style="font-weight:bold;stroke-width:0.129614">Task 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.5716px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';word-spacing:0px;stroke-width:0.11429"
+       x="70.872719"
+       y="41.225552"
+       id="text1080-0-4"
+       inkscape:transform-center-x="-2.1663747"
+       inkscape:transform-center-y="-0.33328908"><tspan
+         sodipodi:role="line"
+         id="tspan1078-2-4"
+         x="70.872719"
+         y="41.225552"
+         style="text-align:center;text-anchor:middle;stroke-width:0.11429">Competition </tspan><tspan
+         sodipodi:role="line"
+         x="70.872719"
+         y="46.940052"
+         style="text-align:center;text-anchor:middle;stroke-width:0.11429"
+         id="tspan973">experiments</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.52645px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';word-spacing:0px;stroke-width:0.113161"
+       x="129.51109"
+       y="37.995655"
+       id="text1080-0-4-7"
+       inkscape:transform-center-x="-2.1450034"
+       inkscape:transform-center-y="-0.3299896"><tspan
+         sodipodi:role="line"
+         id="tspan1078-2-4-4"
+         x="129.51109"
+         y="37.995655"
+         style="stroke-width:0.113161">Pathway flux, </tspan><tspan
+         sodipodi:role="line"
+         x="129.51109"
+         y="43.653717"
+         style="stroke-width:0.113161"
+         id="tspan1028">species interactions,</tspan><tspan
+         sodipodi:role="line"
+         x="129.51109"
+         y="49.311779"
+         style="stroke-width:0.113161"
+         id="tspan1030">growth kinetics</tspan></text>
+    <g
+       id="g900-1-3-99"
+       transform="matrix(-0.07433139,-0.04849926,-0.0443486,0.05937891,128.54542,117.09401)">
+      <g
+         id="g844-1-1-1">
+        <path
+           d="m 414.937,374.984 c -7.956,-24.479 -20.196,-47.736 -30.601,-70.992 -1.224,-3.06 -6.12,-3.06 -7.956,-1.224 -10.403,11.016 -22.031,22.032 -28.764,35.496 h -0.612 C 272.34,343.772 200.124,280.123 148.716,233.612 89.352,180.368 35.496,115.496 14.076,37.772 12.852,27.98 11.628,17.576 11.628,7.172 c 0,-4.896 -6.732,-4.896 -7.344,0 0,1.836 0,3.672 0,5.508 C 1.836,12.68 0,14.516 0,17.576 0.612,24.308 2.448,31.04 3.672,37.772 8.568,203.624 173.808,363.356 335.376,373.76 c -5.508,9.792 -10.403,20.195 -16.523,29.988 -3.061,4.283 1.836,8.567 6.12,7.955 30.6,-4.283 58.14,-18.972 86.292,-29.987 2.447,-0.612 4.895,-3.06 3.672,-6.732 z m -82.009,24.48 c 3.673,-7.956 6.12,-15.912 10.404,-23.868 1.225,-3.061 -0.612,-5.508 -2.448,-6.12 0,-1.836 -1.224,-3.061 -3.06,-3.672 C 191.556,341.324 72.828,241.568 28.764,106.315 c 28.764,53.244 72.828,99.756 116.28,138.924 31.824,28.765 65.484,54.468 102.204,75.888 28.764,16.524 64.872,31.824 97.92,21.421 v 0 c -1.836,4.896 5.508,7.344 7.956,3.672 7.956,-10.404 15.912,-20.196 24.48,-29.376 8.567,18.972 17.748,37.943 24.479,57.527 -22.643,8.569 -45.287,19.585 -69.155,25.093 z"
+           id="path842-0-5-6" />
+      </g>
+      <g
+         id="g846-0-7-2" />
+      <g
+         id="g848-8-0-56" />
+      <g
+         id="g850-7-7-1" />
+      <g
+         id="g852-4-4-45" />
+      <g
+         id="g854-4-1-3" />
+      <g
+         id="g856-8-2-9" />
+      <g
+         id="g858-6-0-05" />
+      <g
+         id="g860-7-5-1" />
+      <g
+         id="g862-6-2-8" />
+      <g
+         id="g864-4-5-72" />
+      <g
+         id="g866-4-7-2" />
+      <g
+         id="g868-6-8-5" />
+      <g
+         id="g870-1-3-4" />
+      <g
+         id="g872-0-5-7" />
+      <g
+         id="g874-2-6-2" />
+    </g>
+    <g
+       id="g900-1-3-3-7"
+       transform="matrix(0.07289162,0.05066591,0.04607805,-0.05806447,81.109697,104.3965)">
+      <g
+         id="g844-1-1-8-2">
+        <path
+           d="m 414.937,374.984 c -7.956,-24.479 -20.196,-47.736 -30.601,-70.992 -1.224,-3.06 -6.12,-3.06 -7.956,-1.224 -10.403,11.016 -22.031,22.032 -28.764,35.496 h -0.612 C 272.34,343.772 200.124,280.123 148.716,233.612 89.352,180.368 35.496,115.496 14.076,37.772 12.852,27.98 11.628,17.576 11.628,7.172 c 0,-4.896 -6.732,-4.896 -7.344,0 0,1.836 0,3.672 0,5.508 C 1.836,12.68 0,14.516 0,17.576 0.612,24.308 2.448,31.04 3.672,37.772 8.568,203.624 173.808,363.356 335.376,373.76 c -5.508,9.792 -10.403,20.195 -16.523,29.988 -3.061,4.283 1.836,8.567 6.12,7.955 30.6,-4.283 58.14,-18.972 86.292,-29.987 2.447,-0.612 4.895,-3.06 3.672,-6.732 z m -82.009,24.48 c 3.673,-7.956 6.12,-15.912 10.404,-23.868 1.225,-3.061 -0.612,-5.508 -2.448,-6.12 0,-1.836 -1.224,-3.061 -3.06,-3.672 C 191.556,341.324 72.828,241.568 28.764,106.315 c 28.764,53.244 72.828,99.756 116.28,138.924 31.824,28.765 65.484,54.468 102.204,75.888 28.764,16.524 64.872,31.824 97.92,21.421 v 0 c -1.836,4.896 5.508,7.344 7.956,3.672 7.956,-10.404 15.912,-20.196 24.48,-29.376 8.567,18.972 17.748,37.943 24.479,57.527 -22.643,8.569 -45.287,19.585 -69.155,25.093 z"
+           id="path842-0-5-35-6" />
+      </g>
+      <g
+         id="g846-0-7-6-7" />
+      <g
+         id="g848-8-0-5-9" />
+      <g
+         id="g850-7-7-8-1" />
+      <g
+         id="g852-4-4-7-7" />
+      <g
+         id="g854-4-1-9-1" />
+      <g
+         id="g856-8-2-20-7" />
+      <g
+         id="g858-6-0-0-1" />
+      <g
+         id="g860-7-5-2-3" />
+      <g
+         id="g862-6-2-6-1" />
+      <g
+         id="g864-4-5-7-4" />
+      <g
+         id="g866-4-7-72-0" />
+      <g
+         id="g868-6-8-2-5" />
+      <g
+         id="g870-1-3-5-5" />
+      <g
+         id="g872-0-5-1-4" />
+      <g
+         id="g874-2-6-6-6" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:5.18457px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';word-spacing:0px;stroke-width:0.129614"
+       x="105.77158"
+       y="85.195908"
+       id="text1080-3"><tspan
+         sodipodi:role="line"
+         id="tspan1078-3"
+         x="105.77158"
+         y="85.195908"
+         style="text-align:center;text-anchor:middle;stroke-width:0.129614">Mechanistic </tspan><tspan
+         sodipodi:role="line"
+         x="105.77158"
+         y="91.67662"
+         style="text-align:center;text-anchor:middle;stroke-width:0.129614"
+         id="tspan1018">model-driven design</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.18457px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';word-spacing:0px;stroke-width:0.129614"
+       x="105.06441"
+       y="132.62889"
+       id="text1080-0-1"><tspan
+         sodipodi:role="line"
+         id="tspan1078-2-9"
+         x="105.06441"
+         y="132.62889"
+         style="text-align:center;text-anchor:middle;stroke-width:0.129614">AI proposed </tspan><tspan
+         sodipodi:role="line"
+         x="105.06441"
+         y="139.1096"
+         style="text-align:center;text-anchor:middle;stroke-width:0.129614"
+         id="tspan1498">modifications</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.18457px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';word-spacing:0px;stroke-width:0.129614"
+       x="132.43497"
+       y="98.883408"
+       id="text1080-0-7-6"><tspan
+         sodipodi:role="line"
+         id="tspan1078-2-0-9"
+         x="132.43497"
+         y="98.883408"
+         style="font-weight:bold;stroke-width:0.129614">Tasks 4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.18457px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';word-spacing:0px;stroke-width:0.129614"
+       x="132.10648"
+       y="127.43774"
+       id="text1080-0-7-5-3"><tspan
+         sodipodi:role="line"
+         id="tspan1078-2-0-2-2"
+         x="132.10648"
+         y="127.43774"
+         style="font-weight:bold;stroke-width:0.129614">Tasks 2,3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.91764px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';word-spacing:0px;stroke-width:0.122941"
+       x="72.612679"
+       y="109.84837"
+       id="text1080-0-4-74"
+       inkscape:transform-center-x="-2.3303534"
+       inkscape:transform-center-y="-0.35851809"><tspan
+         sodipodi:role="line"
+         id="tspan1078-2-4-5"
+         x="72.612679"
+         y="109.84837"
+         style="text-align:center;text-anchor:middle;stroke-width:0.122941">Modified </tspan><tspan
+         sodipodi:role="line"
+         x="72.612679"
+         y="115.99542"
+         style="text-align:center;text-anchor:middle;stroke-width:0.122941"
+         id="tspan1034">strains</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.354px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';word-spacing:0px;stroke-width:0.10885"
+       x="139.21896"
+       y="109.45699"
+       id="text1080-0-4-7-4"
+       inkscape:transform-center-x="-2.0632733"
+       inkscape:transform-center-y="-0.31742722"><tspan
+         sodipodi:role="line"
+         id="tspan1078-2-4-4-3"
+         x="139.21896"
+         y="109.45699"
+         style="text-align:center;text-anchor:middle;stroke-width:0.10885">Modified flux </tspan><tspan
+         sodipodi:role="line"
+         x="139.21896"
+         y="114.89949"
+         style="text-align:center;text-anchor:middle;stroke-width:0.10885"
+         id="tspan1032">designs</tspan></text>
+    <g
+       id="g900-1-3-3-78"
+       transform="matrix(-0.08088734,0.03289364,0.02619835,0.06236885,152.16028,50.976767)">
+      <g
+         id="g844-1-1-8-5">
+        <path
+           d="m 414.937,374.984 c -7.956,-24.479 -20.196,-47.736 -30.601,-70.992 -1.224,-3.06 -6.12,-3.06 -7.956,-1.224 -10.403,11.016 -22.031,22.032 -28.764,35.496 h -0.612 C 272.34,343.772 200.124,280.123 148.716,233.612 89.352,180.368 35.496,115.496 14.076,37.772 12.852,27.98 11.628,17.576 11.628,7.172 c 0,-4.896 -6.732,-4.896 -7.344,0 0,1.836 0,3.672 0,5.508 C 1.836,12.68 0,14.516 0,17.576 0.612,24.308 2.448,31.04 3.672,37.772 8.568,203.624 173.808,363.356 335.376,373.76 c -5.508,9.792 -10.403,20.195 -16.523,29.988 -3.061,4.283 1.836,8.567 6.12,7.955 30.6,-4.283 58.14,-18.972 86.292,-29.987 2.447,-0.612 4.895,-3.06 3.672,-6.732 z m -82.009,24.48 c 3.673,-7.956 6.12,-15.912 10.404,-23.868 1.225,-3.061 -0.612,-5.508 -2.448,-6.12 0,-1.836 -1.224,-3.061 -3.06,-3.672 C 191.556,341.324 72.828,241.568 28.764,106.315 c 28.764,53.244 72.828,99.756 116.28,138.924 31.824,28.765 65.484,54.468 102.204,75.888 28.764,16.524 64.872,31.824 97.92,21.421 v 0 c -1.836,4.896 5.508,7.344 7.956,3.672 7.956,-10.404 15.912,-20.196 24.48,-29.376 8.567,18.972 17.748,37.943 24.479,57.527 -22.643,8.569 -45.287,19.585 -69.155,25.093 z"
+           id="path842-0-5-35-2" />
+      </g>
+      <g
+         id="g846-0-7-6-3" />
+      <g
+         id="g848-8-0-5-0" />
+      <g
+         id="g850-7-7-8-11" />
+      <g
+         id="g852-4-4-7-2" />
+      <g
+         id="g854-4-1-9-4" />
+      <g
+         id="g856-8-2-20-70" />
+      <g
+         id="g858-6-0-0-2" />
+      <g
+         id="g860-7-5-2-7" />
+      <g
+         id="g862-6-2-6-8" />
+      <g
+         id="g864-4-5-7-1" />
+      <g
+         id="g866-4-7-72-2" />
+      <g
+         id="g868-6-8-2-9" />
+      <g
+         id="g870-1-3-5-6" />
+      <g
+         id="g872-0-5-1-5" />
+      <g
+         id="g874-2-6-6-0" />
+    </g>
+    <g
+       id="g900-1-3-3-78-1"
+       transform="matrix(0.01174397,-0.07888745,-0.07270576,-0.01294703,83.222309,89.420211)">
+      <g
+         id="g844-1-1-8-5-0">
+        <path
+           d="m 414.937,374.984 c -7.956,-24.479 -20.196,-47.736 -30.601,-70.992 -1.224,-3.06 -6.12,-3.06 -7.956,-1.224 -10.403,11.016 -22.031,22.032 -28.764,35.496 h -0.612 C 272.34,343.772 200.124,280.123 148.716,233.612 89.352,180.368 35.496,115.496 14.076,37.772 12.852,27.98 11.628,17.576 11.628,7.172 c 0,-4.896 -6.732,-4.896 -7.344,0 0,1.836 0,3.672 0,5.508 C 1.836,12.68 0,14.516 0,17.576 0.612,24.308 2.448,31.04 3.672,37.772 8.568,203.624 173.808,363.356 335.376,373.76 c -5.508,9.792 -10.403,20.195 -16.523,29.988 -3.061,4.283 1.836,8.567 6.12,7.955 30.6,-4.283 58.14,-18.972 86.292,-29.987 2.447,-0.612 4.895,-3.06 3.672,-6.732 z m -82.009,24.48 c 3.673,-7.956 6.12,-15.912 10.404,-23.868 1.225,-3.061 -0.612,-5.508 -2.448,-6.12 0,-1.836 -1.224,-3.061 -3.06,-3.672 C 191.556,341.324 72.828,241.568 28.764,106.315 c 28.764,53.244 72.828,99.756 116.28,138.924 31.824,28.765 65.484,54.468 102.204,75.888 28.764,16.524 64.872,31.824 97.92,21.421 v 0 c -1.836,4.896 5.508,7.344 7.956,3.672 7.956,-10.404 15.912,-20.196 24.48,-29.376 8.567,18.972 17.748,37.943 24.479,57.527 -22.643,8.569 -45.287,19.585 -69.155,25.093 z"
+           id="path842-0-5-35-2-1" />
+      </g>
+      <g
+         id="g846-0-7-6-3-9" />
+      <g
+         id="g848-8-0-5-0-0" />
+      <g
+         id="g850-7-7-8-11-1" />
+      <g
+         id="g852-4-4-7-2-8" />
+      <g
+         id="g854-4-1-9-4-4" />
+      <g
+         id="g856-8-2-20-70-1" />
+      <g
+         id="g858-6-0-0-2-4" />
+      <g
+         id="g860-7-5-2-7-2" />
+      <g
+         id="g862-6-2-6-8-1" />
+      <g
+         id="g864-4-5-7-1-1" />
+      <g
+         id="g866-4-7-72-2-6" />
+      <g
+         id="g868-6-8-2-9-9" />
+      <g
+         id="g870-1-3-5-6-9" />
+      <g
+         id="g872-0-5-1-5-0" />
+      <g
+         id="g874-2-6-6-0-2" />
+    </g>
+    <g
+       id="g1648"
+       transform="translate(0.13363477,1.403165)">
+      <rect
+         style="fill:#ffd275;fill-opacity:1;stroke:none;stroke-width:2.93037;stroke-linecap:round;stroke-opacity:1;paint-order:stroke markers fill"
+         id="rect1614"
+         width="34.882172"
+         height="11.858846"
+         x="86.758514"
+         y="35.396832" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.60333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';word-spacing:0px;stroke:none;stroke-width:0.115083;stroke-opacity:1"
+         x="104.8005"
+         y="39.943459"
+         id="text1080-5"><tspan
+           sodipodi:role="line"
+           id="tspan1078-1"
+           x="104.8005"
+           y="39.943459"
+           style="text-align:center;text-anchor:middle;stroke:none;stroke-width:0.115083;stroke-opacity:1">Experimental data </tspan><tspan
+           sodipodi:role="line"
+           x="104.8005"
+           y="45.69762"
+           style="text-align:center;text-anchor:middle;stroke:none;stroke-width:0.115083;stroke-opacity:1"
+           id="tspan1612">fitting and design</tspan></text>
+    </g>
+    <g
+       id="g1648-0"
+       transform="translate(-0.05500513,68.890298)">
+      <rect
+         style="fill:#ffd275;fill-opacity:1;stroke:none;stroke-width:2.96378;stroke-linecap:round;stroke-opacity:1;paint-order:stroke markers fill"
+         id="rect1614-4"
+         width="27.480156"
+         height="15.398275"
+         x="91.387779"
+         y="33.758167" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.44088px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';word-spacing:0px;stroke:none;stroke-width:0.136022;stroke-opacity:1"
+         x="105.1618"
+         y="39.277672"
+         id="text1080-5-7"><tspan
+           sodipodi:role="line"
+           x="105.1618"
+           y="39.277672"
+           style="text-align:center;text-anchor:middle;stroke:none;stroke-width:0.136022;stroke-opacity:1"
+           id="tspan1612-7">Metabolic </tspan><tspan
+           sodipodi:role="line"
+           x="105.1618"
+           y="46.078773"
+           style="text-align:center;text-anchor:middle;stroke:none;stroke-width:0.136022;stroke-opacity:1"
+           id="tspan1688">Engineering</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:5.18457px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';word-spacing:0px;stroke-width:0.129614"
+       x="59.657326"
+       y="127.54145"
+       id="text1080-0-7-5-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan1078-2-0-2-2-9"
+         x="59.657326"
+         y="127.54145"
+         style="font-weight:bold;stroke-width:0.129614">Tasks 2,3</tspan></text>
+  </g>
+</svg>

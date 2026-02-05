@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:MHYAWT-11/13/2022 12:00:00 AM-11/17/2022 12:00:00 AM@adtrav.com
+SUMMARY:FREIBURGER/Sheraton/0MUWJS08
+LOCATION:340 North 3Rd Street,Phoenix Az 85004/1-602-262-2500
+DTSTART:20221113T060000Z
+DTEND:20221117T060000Z
+DTSTAMP:20220922T184106Z
+DESCRIPTION:HOTEL ROOM\n\nSheraton\nSun\, Nov 13 - Wed\, Nov 16\nConfirmation: 0MUWJS0
+ 8\n\nAddress:\n	340 North 3Rd Street\n	Phoenix Az 85004\nPhone: 1-602-262-
+ 2500\nFax: 1-602-262-2501\n\nCheck In: Sun\, Nov 13\nCheck Out: Wed\, Nov 
+ 16\n\nPersonal Membership: \n\nRate Info:\n	·Nightly Rate: 249.00 USD\n	·P
+ er Diem Rate: 151.00 USD\n\nOther Info:\n	·Number of Rooms: 1\n	·Number of
+  Guests: 1\n\nRoom Description:\n
+END:VEVENT
+END:VCALENDAR
